@@ -4,3 +4,4 @@
 add func1
 add func2
 update codes locally
+测试冲突3
