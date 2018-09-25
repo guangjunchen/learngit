@@ -4,3 +4,4 @@ ceshi laqu
 conflict 1
 conflict 2
 add test1
+add test2
