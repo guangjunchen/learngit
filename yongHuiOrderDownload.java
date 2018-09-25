@@ -396,6 +396,18 @@ public class yongHuiOrderDownload {
 		}
 		return driver;
 	}
+	
+	public void function1(){
+		developping;
+	}
+	
+	public void function2(){
+		developping;
+	}
+	
+	public void function1(){
+		this is function3,it have completed;
+	}
 
 
 }
