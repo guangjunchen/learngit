@@ -3,7 +3,11 @@
 一步到位
 add func1
 add func2
+
+远端修改的代码
+
 update codes locally
 ceshi chongtu4
 测试冲突3
+
 
